@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Infinite Scrolling</string>
+
+    <string name="title">Testing Title Message</string>
+    <string name="news_des">qwertyuiopsdfghjkzxcvbn exrcvbhnjmkxdcfvgbhn xcvbn</string>
+    <string name="time">2016en dash11en dash16 06:15:09</string>
+    <string name="News_Papaer">News_Papaer</string>
+</resources>
